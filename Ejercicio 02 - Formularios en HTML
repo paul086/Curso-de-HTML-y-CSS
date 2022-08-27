@@ -18,7 +18,7 @@
             <input type="number" name="edad" id="edad" required min="0" max="150" step="1"> 
         </div>
         <div>
-            <label for="frase-favorita">Comentarios</label>
+            <label for="frase-favorita">Frase favorita</label>
             <textarea name="frase-favorita" id="frase-favorita" cols="30" rows="10"></textarea>
         </div>
         <br>
