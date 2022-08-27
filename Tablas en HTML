@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 02/2 - Tablas en HTML</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>Titulo</th>
+            <th>Autor</th>
+            <th>Año de Publicación</th>
+            <th>Enlace a Amazon</th>
+        </tr>
+        <tr>
+            <td>El gaucho Martín Fierro </td>
+            <td>José Hernández </td>
+            <td>1872 </td>
+            <td>https://www.amazon.com/-/es/Jose-Hernandez/dp/197464281X</td>
+        </tr>
+        <tr>
+            <td>El Lazarillo de Tormes  </td>
+            <td>anónima  </td>
+            <td>1554 </td>
+            <td>https://www.amazon.com/-/es/An%C3%B3nimo/dp/B08HTJ7742/ref=sr_1_1?keywords=el+lazarillo+de+tormes&qid=1661640595&s=books&sprefix=el+laza%2Cstripbooks-intl-ship%2C564&sr=1-1</td>
+        </tr>
+        <tr>
+            <td>Romeo y Julieta </td>
+            <td>William Shakespeare </td>
+            <td>1597 </td>
+            <td>https://www.amazon.com/-/es/William-Shakespeare/dp/1986283763/ref=sr_1_1?keywords=romeo+y+julieta&qid=1661640759&s=books&sprefix=romeo+y+%2Cstripbooks-intl-ship%2C407&sr=1-1</td>
+        </tr>
+    </table>
+</body>
+</html>
