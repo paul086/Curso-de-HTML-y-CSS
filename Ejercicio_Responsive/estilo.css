@@ -1,0 +1,29 @@
+.contenedor{
+    display: flex;
+    border: solid 1px black;
+    padding: 1rem;
+    width: 100px;
+    background-color: azure;
+    flex-direction: column;  
+}
+
+
+.item4{
+    position: absolute;
+    top:  1px;
+    left: 150px;
+    border: solid 1px black;
+    padding: 1rem;
+    width: 100px;
+    background-color: azure;
+    flex-grow: 1;
+ }
+
+
+
+@media (max-width: 640px) {
+    .barra_lateral  {
+        color: green;
+        display: flex;
+        flex-direction: row;
+        flex-direction: top;
